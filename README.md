@@ -30,6 +30,4 @@ Can you defeat them all and reach the final circuit and be the boxin world champ
 
 ## Supported by
 
-**NewGrounds Inc, Oxim team, Televisa and ©Nintendo Ltd**
-
-![image](https://github.com/user-attachments/assets/ee19bbde-06fe-422e-99c9-feaa207503c2)
+**©NewGrounds Inc, Oxim™, ©Televisa and ©Nintendo Ltd 2024-2026 **
