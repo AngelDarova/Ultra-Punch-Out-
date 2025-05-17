@@ -7,21 +7,19 @@ of this saga with more new and original things within it such as mechanics and c
 Can you defeat them all and reach the final circuit and be the boxin world champion!?
 
 # Getting started
-![hmam](https://github.com/user-attachments/assets/5181dca7-c630-4fe9-bd49-b54774a2dd09)
-
 To start, install the latest version of "clickteam fusion developer 2.5"
 (Multimedia Fusion does not work) and modify everything you want in this incredible game!!!
 
 # Credits
-Miguel Angel Sanchez - Coder, artist, composer, boss
+- [Miguel Angel Sanchez] (https://oxim.newgrounds.com/) - Coder, artist, composer, boss
 
-Angel David Rodriges - Coder, Github creator page
+- [Angel David Vanegas] (https://angeldarova.newgrounds.com/)- Coder, Github creator page
 
-Anthony Villanueva - Artist, spriter, composer
+- [Anthonio Villanueva] (https://anthonyvillanueva.newgrounds.com/) - Artist, spriter, composer
 
-Fluffy - Quiang Li VA
+- [Lena2] (https://lena2.newgrounds.com/) - Quiang Li VA
 
-Dylansio - Animator
+- [Dylansio] (https://dylansio.newgrounds.com/) - Animator cutcene of Quiang Li
 
 -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
 
