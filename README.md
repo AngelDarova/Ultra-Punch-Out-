@@ -7,8 +7,10 @@ of this saga with more new and original things within it such as mechanics and c
 Can you defeat them all and reach the final circuit and be the boxin world champion!?
 
 # Getting started
-To start, install the latest version of "clickteam fusion developer 2.5"
+**To start, install the latest version of "clickteam fusion developer 2.5"**
+
 🎮[**Buy NOW**](https://www.clickteam.com/clickteam-fusion-2-5)
+
 (Multimedia Fusion does not work) and modify everything you want in this incredible game!!!
 
 ## Credits
@@ -22,8 +24,7 @@ To start, install the latest version of "clickteam fusion developer 2.5"
 
 - [Dylansio](https://dylansio.newgrounds.com/) - Animator cutcene of Quiang Li
 
--/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
-
-Copyright by ©Nintendo
+##Supported by 
+**NewGrounds Inc, Oxim team, Televisa and ©Nintendo Ltd**
 
 ![image](https://github.com/user-attachments/assets/ee19bbde-06fe-422e-99c9-feaa207503c2)
