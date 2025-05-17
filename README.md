@@ -10,7 +10,7 @@ Can you defeat them all and reach the final circuit and be the boxin world champ
 To start, install the latest version of "clickteam fusion developer 2.5"
 (Multimedia Fusion does not work) and modify everything you want in this incredible game!!!
 
-# Credits
+## Credits
 - [Miguel Angel Sanchez] (https://oxim.newgrounds.com/) - Coder, artist, composer, boss
 
 - [Angel David Vanegas] (https://angeldarova.newgrounds.com/)- Coder, Github creator page
