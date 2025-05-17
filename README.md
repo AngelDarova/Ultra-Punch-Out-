@@ -8,18 +8,19 @@ Can you defeat them all and reach the final circuit and be the boxin world champ
 
 # Getting started
 To start, install the latest version of "clickteam fusion developer 2.5"
+🎮[**Buy NOW**](https://www.clickteam.com/clickteam-fusion-2-5)
 (Multimedia Fusion does not work) and modify everything you want in this incredible game!!!
 
 ## Credits
-- [Miguel Angel Sanchez] (https://oxim.newgrounds.com/) - Coder, artist, composer, boss
+- [Miguel Angel Sanchez](https://oxim.newgrounds.com/) - Coder, artist, composer, boss
 
-- [Angel David Vanegas] (https://angeldarova.newgrounds.com/)- Coder, Github creator page
+- [Angel David Vanegas](https://angeldarova.newgrounds.com/)- Coder, Github creator page
 
-- [Anthonio Villanueva] (https://anthonyvillanueva.newgrounds.com/) - Artist, spriter, composer
+- [Anthonio Villanueva](https://anthonyvillanueva.newgrounds.com/) - Artist, spriter, composer
 
-- [Lena2] (https://lena2.newgrounds.com/) - Quiang Li VA
+- [Lena2](https://lena2.newgrounds.com/) - Quiang Li VA
 
-- [Dylansio] (https://dylansio.newgrounds.com/) - Animator cutcene of Quiang Li
+- [Dylansio](https://dylansio.newgrounds.com/) - Animator cutcene of Quiang Li
 
 -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
 
